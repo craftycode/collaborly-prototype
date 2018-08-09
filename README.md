@@ -1,2 +1,19 @@
 # collaborly-rails
-Prototype of collaborative personal knowledge management system.
+Prototype of a collaborative personal knowledge management system.
+
+# Copyright / License
+Collaborly Prototype, a prototype personal knowledge management service.
+Copyright (C) 2018  Anthony Crumley
+
+Collaborly Prototype is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Collaborly Prototype is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
